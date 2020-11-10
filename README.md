@@ -7,21 +7,16 @@
 In this lesson, we'll review all the guidelines and specifications for the final project for Module 3.
 
 
-## Objectives
+## Questions and Answers
 
 - Understand all required aspects of the Final Project for Module 3
 - Understand all required deliverables
 - Understand what constitutes a successful project
 
-## Final Project Summary
+## Models
 
-Congratulations! You've made it through another _intense_ module, and now you're ready to show off your newfound Machine Learning skills!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-3-project-v2-1/master/smart.gif)
-
-All that remains for Module 3 is to complete the final project!
-
-## The Project
+## Some Conclusions
 
 The main goal of this project is to create a classification model. For this project you have the choice to either:
 
