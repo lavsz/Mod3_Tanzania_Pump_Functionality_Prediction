@@ -12,6 +12,7 @@ In this lesson, we'll review all the guidelines and specifications for the final
 - Water features?
 - Human factors?
 - Physical environmental factors?
+- Any particular features standing out?
 
 ## Models & Evaluation
 
