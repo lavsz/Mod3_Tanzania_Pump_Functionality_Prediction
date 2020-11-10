@@ -4,7 +4,9 @@
 
 ## Introduction
 
-In this lesson, we'll review all the guidelines and specifications for the final project for Module 3.
+Potable water resource is very important. 
+
+Mirror mirror on the wall. Please tell me which features determine the functionality of water pumps?
 
 
 ## Questions and Answers
