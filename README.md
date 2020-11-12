@@ -11,9 +11,11 @@ Mirror mirror on the wall. Please tell me which features determine the functiona
 
 ## Questions and Answers
 
-- Water features?
+- Mechanical features?
 - Human factors?
 - Physical environmental factors?
+   - Water
+   - Others
 - Any particular features standing out?
 
 ## Models & Evaluation
