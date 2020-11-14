@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Potable water resource is very important. 
+Potable water resource is key life necessity. In Tanzania, many areas depends on water pumps for living support. It is very important to learn the functionality status of water pumps and what are potential factors that might this. 
 
-Mirror mirror on the wall. Please tell me which features determine the functionality of water pumps?
+This project intends to look at different physical, geographical, and social features related to the water pump. 
 
 
 ## Questions and Answers
