@@ -1,6 +1,7 @@
 
 # Module 3 Final Project
 
+by Shenghao (Lavender) Zhang
 
 ## Introduction
 
