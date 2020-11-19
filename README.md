@@ -34,3 +34,5 @@ Based on the EDA and model, some important feature include:
 - Total Static head
 - Quantity
 - Pemitting
+
+## Resources
