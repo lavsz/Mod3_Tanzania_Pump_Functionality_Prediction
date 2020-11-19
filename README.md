@@ -11,7 +11,7 @@ Potable water resource is key life necessity. In Tanzania, many areas depends on
 This project intends to look at different physical, geographical, and social features related to the water pump. 
 
 
-## Questions and Answers
+## Questions to Study
 
 - Would water features affect the functionality of the pump?
 - Would operation factors affect the functionality of the pump?
