@@ -13,7 +13,8 @@ This project intends to look at different physical, geographical, and social fea
 
 ## Questions and Answers
 
-- Would water and pump's mechanical features affect the operation of the pump?
+- Would water features affect the functionality of the pump?
+- Would operation factors affect the functionality of the pump?
 - Are there any geospatial distribution patterns?
 - Are there any particular characteristics standing out that can affect the functional status of the pump?
 
@@ -31,11 +32,5 @@ Based on the EDA and model, some important feature include:
 - Population (which infers further usage)
 - Height (altitude)
 - Total Static head
-- Extraction type
-- Dry quantity
-
-
-
-## Citation
-
-1. "What is the CRISP-DM Methodology?" Smart Vision Europe. Available at: https://www.sv-europe.com/crisp-dm-methodology/
+- Quantity
+- Pemitting
