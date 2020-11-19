@@ -23,7 +23,8 @@ A few different types of machine learning models were utilized to study the func
 - Random Forest Classifier
 - K-Nearest Neighbours (KNN)
 - XGBoost
-Random Forest achieved the highest accuracy score and was further tune and evaluated. 
+
+Random Forest and XGBoost achieved the higher accuracy scores and were further tuned and evaluated. 
 
 ## Some Conclusions
 
