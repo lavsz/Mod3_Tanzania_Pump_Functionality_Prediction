@@ -28,7 +28,7 @@ Random Forest and XGBoost achieved the higher accuracy scores and were further t
 
 Final accuracy score for XGBoost: 79%
 
-## Some Conclusions
+## Some Findings
 
 Based on the EDA and model, some important feature include:
 - Distance to the closest town
