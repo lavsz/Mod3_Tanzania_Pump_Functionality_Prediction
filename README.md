@@ -39,3 +39,4 @@ Based on the EDA and model, some important feature include:
 - Pemitting
 
 ## Resources
+Detailed Jupyter Notebook is here[https://github.com/lavsz/Module3_Final_Project/blob/master/EDA_MODEL_master.ipynb]
