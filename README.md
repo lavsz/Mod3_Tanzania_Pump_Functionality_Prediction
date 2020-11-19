@@ -26,6 +26,8 @@ A few different types of machine learning models were utilized to study the func
 
 Random Forest and XGBoost achieved the higher accuracy scores and were further tuned and evaluated. 
 
+Final accuracy score for XGBoost: 79%
+
 ## Some Conclusions
 
 Based on the EDA and model, some important feature include:
