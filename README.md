@@ -16,16 +16,19 @@ This project intends to look at different physical, geographical, and social fea
 ## Questions to Visualize
 
 **Would water features affect the functionality of the pump?**
+
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%205.49.28%20PM.png' width="450" height="250">
 
 Note: most water pump has good water quality resources. 
 
 **Would payment types affect the functionality of the pump?**
+
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%205.42.19%20PM.png' width="720" height="220">
 
 Note: regular payments to the water service seems to grant better functionality
 
 **Are there any geospatial distribution patterns?**
+
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%205.55.03%20PM.png' width="650" height="250">
 
 Note: there are some regions with more non functional pumps. 
