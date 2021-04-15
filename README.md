@@ -31,7 +31,7 @@ Note: regular payments to the water service seems to grant better functionality
 Note: there are some regions with more non functional pumps. Which regions are those?
 
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%206.08.35%20PM.png'
-width="600" height="250">
+width="600" height="300">
 
 Regions that stood out: Lindi, Mara, Mt.Wara, Rukwa, and Tabora
 
