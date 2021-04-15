@@ -6,7 +6,9 @@ by Shenghao (Lavender) Zhang
 ## Introduction
 
 Potable water resource is key life necessity. In Tanzania, many areas depends on water pumps for living support. It is very important to learn the functionality status of water pumps and what are potential factors that might this. 
+
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Water_pump_with_seat_and_easy_access_(Tanzania)_(5600883227).jpg' width="350" height="250">
+
 
 This project intends to look at different physical, geographical, and social features related to the water pump. 
 
@@ -28,7 +30,7 @@ Note: regular payments to the water service seems to grant better functionality
 
 Note: there are some regions with more non functional pumps. Which regions are those?
 
-<imb src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%206.08.35%20PM.png'
+<img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%206.08.35%20PM.png'
 width="650" height="250">
 
 Regions that stood out: Lindi, Mara, Mt.Wara, Rukwa, and Tabora
