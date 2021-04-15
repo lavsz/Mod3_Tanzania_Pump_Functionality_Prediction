@@ -31,6 +31,8 @@ Note: there are some regions with more non functional pumps. Which regions are t
 <imb src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%206.08.35%20PM.png'
 width="650" height="250">
 
+Regions that stood out: Lindi, Mara, Mt.Wara, Rukwa, and Tabora
+
 ## Models & Evaluation
 A few different types of machine learning models were utilized to study the functional status of the water pumps, including:
 - Random Forest Classifier
