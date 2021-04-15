@@ -11,12 +11,16 @@ Potable water resource is key life necessity. In Tanzania, many areas depends on
 This project intends to look at different physical, geographical, and social features related to the water pump. 
 
 
-## Questions to Study
+## Questions to Visualize
 
 - Would water features affect the functionality of the pump?
-- Would operation factors affect the functionality of the pump?
+<img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%205.49.28%20PM.png' width="350" height="250">
+
+- Would payment types affect the functionality of the pump?
+<img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%205.42.19%20PM.png' width="350" height="250">
+
 - Are there any geospatial distribution patterns?
-- Are there any particular characteristics standing out that can affect the functional status of the pump?
+
 
 ## Models & Evaluation
 A few different types of machine learning models were utilized to study the functional status of the water pumps, including:
