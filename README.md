@@ -59,11 +59,10 @@ Final winner XGBoost classifier and the accuracy score is 79.7%
 
 Based on the EDA and model, some important features that affect classifying functionality include:
 - Distance to the closest town 
-- Population (which infers usage)
 - Height (altitude)
+- Population (which infers usage)
 - Total Static head 
-- Quantity
-- Pemitting
+
 
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%209.03.51%20PM.png'
 width="600" height="300">
