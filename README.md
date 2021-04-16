@@ -5,7 +5,7 @@ by Shenghao (Lavender) Zhang
 
 ## Introduction
 
-Potable water resource is key life necessity. In Tanzania, many areas depends on water pumps for living support. It is very important to learn the functionality status of water pumps and what are potential factors that might this. This project intends to look at different physical, geographical, and social features in predicting whether water pumps are functional, needs repair, or non-functional. 
+Potable water resource is key life necessity. In Tanzania, many areas depends on water pumps for potable water access. It is very important to learn the functionality status of water pumps and what are potential factors that might this. This project intends to look at different physical, geographical, and social features in predicting whether water pumps are functional, needs repair, or non-functional. 
 
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Water_pump_with_seat_and_easy_access_(Tanzania)_(5600883227).jpg' width="200" height="150">
 
