@@ -61,7 +61,7 @@ Based on the EDA and model, some important features that affect classifying func
 - Distance to the closest town 
 - Height (altitude)
 - Population (which infers usage)
-- Total Static head 
+- Construction year
 
 
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%209.03.51%20PM.png'
