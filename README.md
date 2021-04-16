@@ -53,17 +53,24 @@ A few different types of machine learning classifier models were utilized to stu
 
 Random Forest and XGBoost achieved higher accuracy scores and were further tuned and evaluated. 
 
-Final winner XGBoost classifier and the accuracy score is 79%
+Final winner XGBoost classifier and the accuracy score is 79.7%
 
-## Some Findings
+## Some Findings & Further Improvement
 
 Based on the EDA and model, some important features that affect classifying functionality include:
-- Distance to the closest town (data acquired from external sources)
+- Distance to the closest town 
 - Population (which infers usage)
 - Height (altitude)
 - Total Static head 
 - Quantity
 - Pemitting
+
+<img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Screen%20Shot%202021-04-15%20at%209.03.51%20PM.png'
+width="600" height="300">
+
+Based on the F score, distance to the nearest town shows way higher importance than many other features. It is a good indication of resources availability, inspection frequency, and perhaps administrative-level influences. Therefore, it definitely worth to explore other geospatial features on the politcal and social level to help improve the model. 
+
+
 
 ## Python Libraries 
 Data structuring and cleaning:
