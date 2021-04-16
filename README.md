@@ -5,15 +5,17 @@ by Shenghao (Lavender) Zhang
 
 ## Introduction
 
-Potable water resource is key life necessity. In Tanzania, many areas depends on water pumps for living support. It is very important to learn the functionality status of water pumps and what are potential factors that might this. 
+Potable water resource is key life necessity. In Tanzania, many areas depends on water pumps for living support. It is very important to learn the functionality status of water pumps and what are potential factors that might this. This project intends to look at different physical, geographical, and social features in predicting whether water pumps are functional, needs repair, or non-functional. The dataset is provided by Drivendata for competition. 
 
 <img src = 'https://github.com/lavsz/Mod3_Tanzania_Pump_Functionality_Prediction/blob/master/Digital_Arts/Water_pump_with_seat_and_easy_access_(Tanzania)_(5600883227).jpg' width="350" height="250">
 
 
-This project intends to look at different physical, geographical, and social features related to the water pump. 
+
 
 
 ## Questions to Visualize
+
+Let's begin with looking at several different features in this dataset. 
 
 **Would water features affect the functionality of the pump?**
 
@@ -41,24 +43,43 @@ width="600" height="300">
 Regions that stood out: Lindi, Mara, Mt.Wara, Rukwa, and Tabora
 
 ## Models & Evaluation
-A few different types of machine learning models were utilized to study the functional status of the water pumps, including:
+A few different types of machine learning classifier models were utilized to study the functional status of the water pumps, including:
 - Random Forest Classifier
 - K-Nearest Neighbours (KNN)
 - XGBoost
 
-Random Forest and XGBoost achieved the higher accuracy scores and were further tuned and evaluated. 
+Random Forest and XGBoost achieved higher accuracy scores and were further tuned and evaluated. 
 
-Final accuracy score for XGBoost: 79%
+Final winner XGBoost classifier and the accuracy score is 79%
 
 ## Some Findings
 
-Based on the EDA and model, some important feature include:
-- Distance to the closest town
-- Population (which infers further usage)
+Based on the EDA and model, some important features that affect classifying functionality include:
+- Distance to the closest town (data acquired from external sources)
+- Population (which infers usage)
 - Height (altitude)
-- Total Static head
+- Total Static head 
 - Quantity
 - Pemitting
+
+## Python Libraries 
+Data structuring and cleaning:
+- Numpy
+- Pandas
+- Geopandas
+- Shapely
+- Math
+
+Visualization:
+- Seaborn
+- Matplotlib
+- Folium
+- statsmodels.graphics.mosaicplot
+
+Machine Learning:
+- Sklean
+- imblearn
+- XGBoost
 
 ## Resources
 - Detailed Jupyter Notebook is [here](https://github.com/lavsz/Module3_Final_Project/blob/master/EDA_MODEL_master.ipynb)
